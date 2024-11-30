@@ -9,61 +9,148 @@
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
-            line-height: 1.6;
+            line-height: 1.8;
             background-color: #f4f4f9;
             color: #333;
         }
         header {
             background: linear-gradient(to right, #3a7bd5, #00d2ff);
-            padding: 20px;
+            padding: 40px 20px;
             color: white;
             text-align: center;
         }
-        section, footer {
-            padding: 20px;
-            margin: 0 auto;
-            max-width: 800px;
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
         }
-        a {
-            color: #1a73e8;
+        header p {
+            font-size: 1.2em;
+        }
+        nav {
+            background-color: #333;
+            padding: 10px 20px;
+        }
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: space-around;
+        }
+        nav ul li {
+            display: inline;
+        }
+        nav ul li a {
+            color: white;
             text-decoration: none;
+            font-weight: bold;
         }
-        a:hover {
+        nav ul li a:hover {
             text-decoration: underline;
         }
-        ul {
-            list-style-type: none;
-            padding: 0;
+        section {
+            padding: 20px;
+            margin: 0 auto;
+            max-width: 1000px;
         }
-        li {
-            padding: 5px 0;
+        section h2 {
+            border-bottom: 2px solid #3a7bd5;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+        }
+        section p, ul {
+            margin-bottom: 15px;
+        }
+        ul {
+            padding: 0 20px;
+        }
+        ul li {
+            margin: 5px 0;
         }
         footer {
             background-color: #2e2e2e;
             color: white;
-            padding: 10px;
+            padding: 20px;
             text-align: center;
+        }
+        .toc ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .toc ul li {
+            margin: 5px 0;
+        }
+        .toc ul li a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        .toc ul li a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>Welcome to My CS499 ePortfolio</h1>
-        <p>This portfolio showcases my work and skills in software design, algorithms, and databases.</p>
+        <h1>Thierry Tran's CS499 ePortfolio</h1>
+        <p>Welcome to my professional portfolio for my Computer Science capstone class, showcasing my skills and achievements.</p>
     </header>
 
-    <section>
+    <nav>
+        <ul>
+            <li><a href="#about-me">About Me</a></li>
+            <li><a href="#table-of-contents">Table of Contents</a></li>
+            <li><a href="#projects-and-artifacts">Projects and Artifacts</a></li>
+        </ul>
+    </nav>
+
+    <section id="about-me">
         <h2>About Me</h2>
-        <p>Hello! I'm Thierry Tran, a Computer Science student with a strong passion for software development and technology. This ePortfolio showcases my journey and the skills I’ve honed throughout my studies. My main project for this ePortfolio is the Event Tracking App, which serves as a testament to my growth in software design and engineering, algorithms and data structures, and database management. This app demonstrates my ability to design and develop a user-centric solution while ensuring robust data handling and efficient algorithms. Through enhancing this app, I showcase the breadth of my expertise in building maintainable, scalable, and secure applications.</p>
+        <p>Hello! I'm Thierry Tran, a dedicated Computer Science student with a passion for software development and technology. This ePortfolio highlights my growth through the CS499 Capstone course, where I applied my knowledge in software design, algorithms, and database management. Each project reflects my commitment to learning and building solutions that are both efficient and user-friendly.</p>
     </section>
 
-    <section>
+    <section id="table-of-contents" class="toc">
+        <h2>Table of Contents</h2>
+        <ul>
+            <li><a href="#professional-self-assessment">Professional Self-Assessment</a></li>
+            <li><a href="#code-review">Code Review</a></li>
+            <li><a href="#software-design">Software Design and Engineering: Zoo Authentication Enhancement</a></li>
+            <li><a href="#algorithms">Algorithms and Data Structure: Zoo Authentication Enhancement</a></li>
+            <li><a href="#databases">Databases: DAD-220 MySQL Database Enhancement</a></li>
+        </ul>
+    </section>
+
+    <section id="projects-and-artifacts">
         <h2>Projects and Artifacts</h2>
         <ul>
             <li><a href="https://github.com/thierrytuantran/CS499_CSCapStone/tree/main/EnhancementOne_SoftwareDesign_Engineering">Software Design Project</a></li>
-            <li><a href="https://github.com/thierrytuantran/CS499_CSCapStone/tree/main/EnhancementTwo_Algorithms_DataStructure">Algorithms Project and Data Structure</a></li>
+            <li><a href="https://github.com/thierrytuantran/CS499_CSCapStone/tree/main/EnhancementTwo_Algorithms_DataStructure">Algorithms and Data Structure Project</a></li>
             <li><a href="https://github.com/thierrytuantran/CS499_CSCapStone/tree/main/EnhancementThree_Database">Database Project</a></li>
         </ul>
+    </section>
+
+    <section id="professional-self-assessment">
+        <h2>Professional Self-Assessment</h2>
+        <p>This section reflects on my journey in computer science, showcasing my growth in applying theoretical knowledge to practical challenges. It demonstrates my ability to identify and enhance key components of a software project while maintaining best practices in design, coding, and user experience.</p>
+    </section>
+
+    <section id="code-review">
+        <h2>Code Review</h2>
+        <p>My code review focused on analyzing and improving existing artifacts. For each enhancement, I followed industry standards to optimize performance and ensure maintainability. Highlights include modularization of code, optimization of algorithms, and improved database operations.</p>
+    </section>
+
+    <section id="software-design">
+        <h2>Software Design and Engineering: Zoo Authentication Enhancement</h2>
+        <p>In this project, I focused on enhancing the user authentication mechanism for a Zoo application. I added validation layers, improved input sanitization, and optimized the user experience while ensuring robust security practices.</p>
+    </section>
+
+    <section id="algorithms">
+        <h2>Algorithms and Data Structure: Zoo Authentication Enhancement</h2>
+        <p>This enhancement addressed sorting and search functionalities within the Zoo application, ensuring responsive interactions and scalability when dealing with larger datasets.</p>
+    </section>
+
+    <section id="databases">
+        <h2>Databases: DAD-220 MySQL Database Enhancement</h2>
+        <p>My database project focused on normalizing table structures, implementing advanced queries, and ensuring the data integrity and security of the Zoo application database.</p>
     </section>
 
     <footer>
