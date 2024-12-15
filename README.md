@@ -1,5 +1,9 @@
 # Thierry Tran's CS499 Capstone Portfolio
 
+[![SNHU](https://img.shields.io/badge/SNHU-blue)](https://www.snhu.edu)
+[![EPORTFOLIO](https://img.shields.io/badge/EPORTFOLIO-purple)](https://thierrytuantran.github.io/CS499_CSCapStone/)
+[![REPO](https://img.shields.io/badge/CodeReview-red)](https://www.youtube.com/watch?v=h7PXxI6ab0A)
+
 * Welcome to my professional portfolio, created as part of my Computer Science Capstone course (CS499). This repository highlights the culmination of my academic journey and showcases my skills and growth as a software developer. Through this portfolio, I demonstrate my expertise in software design and engineering, algorithms and data structures, and database management, while addressing real-world challenges and implementing solutions aligned with industry standards.
 
 ## About Me
@@ -43,7 +47,3 @@ I am a Computer Science graduate with a passion for building scalable, secure, a
        
         [Enhancement Three](https://github.com/thierrytuantran/CS499_CSCapStone/tree/main/EnhancementThree_Database)
           
-[![SNHU](https://img.shields.io/badge/SNHU-blue)](https://www.snhu.edu)
-[![EPORTFOLIO](https://img.shields.io/badge/EPORTFOLIO-purple)](https://thierrytuantran.github.io/CS499_CSCapStone/)
-[![REPO](https://img.shields.io/badge/CodeReview-red)](https://www.youtube.com/watch?v=h7PXxI6ab0A)
-
