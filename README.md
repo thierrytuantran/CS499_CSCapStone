@@ -1,10 +1,17 @@
-# CS499_CSCapStone
+# Thierry Tran's CS499 Capstone Portfolio
 
-## Thierry Tran's Computer Science ePortfolio
+* Welcome to my professional portfolio, created as part of my Computer Science Capstone course (CS499). This repository highlights the culmination of my academic journey and showcases my skills and growth as a software developer. Through this portfolio, I demonstrate my expertise in software design and engineering, algorithms and data structures, and database management, while addressing real-world challenges and implementing solutions aligned with industry standards.
 
-Welcome to my CS499 ePortfolio, a showcase of my journey in computer science and the work I’ve completed in this capstone course. This portfolio highlights the skills I’ve honed through key enhancements to the Event Tracking Application, focusing on software design, algorithms, and database management. Each enhancement reflects my growth—from improving usability and security to optimizing performance and ensuring data integrity. This ePortfolio not only demonstrates my technical abilities but also my passion for creating efficient, secure, and user-friendly solutions as I prepare to enter the professional world.
+## About Me
+I am a Computer Science graduate with a passion for building scalable, secure, and user-friendly applications. My journey into technology has been transformative, and this portfolio reflects the culmination of my academic studies and hands-on experience, particularly through my work on the Event Tracking Application.
 
-## My ePortfolio
+## Portfolio Highlights
+  1. Professional Self-Assessment
+  2. Code Review
+  3. Enhancements and Artifacts
+     * Software Design and Engineering
+     * Algorithms and Data Structures
+     * Database Management
 
 [![EPORTFOLIO](https://img.shields.io/badge/EPORTFOLIO-purple)](https://thierrytuantran.github.io/CS499_CSCapStone/)
 [![REPO](https://img.shields.io/badge/CodeReview-red)](https://www.youtube.com/watch?v=h7PXxI6ab0A)
