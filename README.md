@@ -35,15 +35,21 @@ I am a Computer Science graduate with a passion for building scalable, secure, a
        
         [Enhancement One](https://github.com/thierrytuantran/CS499_CSCapStone/tree/main/EnhancementOne_SoftwareDesign_Engineering)
 
-     2. Algorithms and Data Structures
+        [Journal Enhancement One](https://github.com/thierrytuantran/CS499_CSCapStone/blob/main/EnhancementOne_SoftwareDesign_Engineering/ThierryTran_CS499_Enhancement%20One_Software%20Design_Engineering.pdf)
+
+     3. Algorithms and Data Structures
 
         * Enhanced the application’s sorting and searching functionalities to improve efficiency and scalability.
        
         [Enhancement Two](https://github.com/thierrytuantran/CS499_CSCapStone/tree/main/EnhancementTwo_Algorithms_DataStructure)
+
+        [Journal Enhancement Two](https://github.com/thierrytuantran/CS499_CSCapStone/blob/main/EnhancementTwo_Algorithms_DataStructure/ThierryTran_CS499_Enhancement%20Two_Algorithm%26DataStructure.pdf)
       
-     3. Database Management
+     5. Database Management
         
         * Emplemented input sanitization, prevented duplicate entries, and improved database queries for reliability and performance.
        
         [Enhancement Three](https://github.com/thierrytuantran/CS499_CSCapStone/tree/main/EnhancementThree_Database)
+
+        [Journal Enhancement Three](https://github.com/thierrytuantran/CS499_CSCapStone/blob/main/EnhancementThree_Database/ThierryTran_CS499_Enhancement%20Three_Database.pdf)
           
