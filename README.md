@@ -9,9 +9,9 @@ I am a Computer Science graduate with a passion for building scalable, secure, a
   1. Professional Self-Assessment
   2. Code Review
   3. Enhancements and Artifacts
-     * Software Design and Engineering
-     * Algorithms and Data Structures
-     * Database Management
+     1. Software Design and Engineering
+     2. Algorithms and Data Structures
+     3. Database Management
 
 [![EPORTFOLIO](https://img.shields.io/badge/EPORTFOLIO-purple)](https://thierrytuantran.github.io/CS499_CSCapStone/)
 [![REPO](https://img.shields.io/badge/CodeReview-red)](https://www.youtube.com/watch?v=h7PXxI6ab0A)
